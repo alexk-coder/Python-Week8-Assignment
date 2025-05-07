@@ -101,7 +101,7 @@ The analysis uses the **Our World in Data** COVID-19 dataset (`owid-covid-data.c
 
 ## 📚 Credits
 
-* **Dataset Source**: [Our World in Data – COVID-19 Dataset]([https://ourworldindata.org/coronavirus-source-data](https://www.kaggle.com/datasets/sandhyakrishnan02/latest-covid-19-dataset-worldwide))
+* **Dataset Source**: [Our World in Data – COVID-19 Dataset]([https://www.kaggle.com/datasets/sandhyakrishnan02/latest-covid-19-dataset-worldwide])
 
 ---
 
