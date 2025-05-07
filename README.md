@@ -1,4 +1,3 @@
-````markdown
 # 🦠 COVID-19 Global Data Tracker
 
 ## 📊 Project Overview
@@ -85,8 +84,7 @@ The analysis uses the **Our World in Data** COVID-19 dataset (`owid-covid-data.c
    - Python
 3. Install required libraries:
    ```bash
-   pip install pandas matplotlib seaborn plotly nbformat
-````
+   pip install pandas matplotlib seaborn plotly nbformat 
 
 4. Open `covid_analysis.ipynb`
 5. Run all cells sequentially
@@ -103,13 +101,10 @@ The analysis uses the **Our World in Data** COVID-19 dataset (`owid-covid-data.c
 
 ## 📚 Credits
 
-* **Dataset Source**: [Our World in Data – COVID-19 Dataset](https://ourworldindata.org/coronavirus-source-data)
+* **Dataset Source**: [Our World in Data – COVID-19 Dataset](https://www.kaggle.com/datasets/sandhyakrishnan02/latest-covid-19-dataset-worldwide)
 
 ---
 
 ## 📝 License
 
 This project is for educational purposes. Dataset is used under terms specified by Our World in Data.
-
-```
-```
